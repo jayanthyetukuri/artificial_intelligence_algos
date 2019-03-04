@@ -252,8 +252,3 @@ Outputs when the program is run for 60 times:
 [2, 9, 0, 7, 0]           2
 
 '''
-
-
-'''
-https://docs.google.com/drawings/d/e/2PACX-1vRZ1AVjLCt2Qmpu2ULn2DPHN235_NqY03qlKgP-FPdza6uH0E6Efx8TX_gUghM-k_O08T-9XJBjqlON/pub?w=1204&h=716
-'''
